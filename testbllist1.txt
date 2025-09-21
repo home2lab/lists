@@ -1,9 +1,6 @@
-[Adblock Plus]
+Adblock
 
-! Number of entries: 216821
-!
 ||0.club^
-
 
 
 chatbot.dskbank.bg
@@ -30,16 +27,126 @@ spclient.wg.spotify.com
 fdi.api.iris.microsoft.com
 
 
-tm-sdk.platinumai.net
+
 
 wpad.enterprisenet.org
 enterprisenet.org
 (\.|^)enterprisenet\.org$
 
-(\.|^)pooldata\.jazz\.com\.pk$
+(\.|^)zdxcloud\.net$
 
+!pakistani it corp
+(\.|^)pooldata\.jazz\.com\.pk$
 (\.|^)datapool\.zong\.com\.pk$
 
+!dell customer stuff
+tm-sdk.platinumai.net
 
-(\.|^)zdxcloud\.net$
+!mexico supermarkets?
+ftphebmx.heb.com.mx
+
+!kaza gov sites
+sono2.salyk.kz
+sono.salyk.kz
+
+!belarus national bank
+www.nbrb.by
+
+!us National Center for Education Statistics
+usd.nces.by
+
+!canned food
+partnerexchange.campbellsoup.com
+
+!korean store
+smartstore.naver.com
+
+!poland chinese pc store
+x-kom.pl
+
+!supermarket
+intranet.consum.es
+
+!lufthansa flight miles
+www.miles-and-more.com
+
+!NL ecommerce
+gfk-import.unftp.bol.com
+
+!uk store
+britsuperstore.com
+
+!identity management from telaviv - usa
+fidm.us1.gigya.com
+
+!dubai insurance
+iloe.ae
+diniloe.ae
+
+!chile
+herculesr.sii.cl
+
+!UAE
+extranet.etisalat.ae
+
+!pt finance portal
+servicos.portaldasfinancas.gov.pt
+
+!walmart VMware horizon
+dwsuag-ex3-p03.wal-mart.com
+
+!Br ESR it company
+!totvscloud.com.br
+
+!salesoft sales engagement
+melody.us1.salesloft.com
+salesloft.com
+tracer-bullet.us1.salesloft.com
+
+!amazon
+pkc-4nym6.us-east-1.aws.confluent.cloud
+psrc-4yovk.us-east-2.aws.confluent.cloud
+ntq.apps.s3-eu-west-1.amazonaws.com
+s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
+traverse.infocume.com
+
+app.chime.aws
+
+					
+!it billing documents soft
+vpn-clienti-wg.edok.it
+
+!multinet pakistan info and comms tech
+metroclients.multi.net.pk
+					
+!gfk entertainment
+ftp.gfk-e.com
+
+!es travel and electronicss bureau
+contratacion.madrid-destino.com
+
+!hardware store Weber-Stephen Products LLC
+sftp.weberstephen.com
+
+!selling experience gifts
+smartftp.smartbox.com
+
+!retail corp
+bgcd-sftp.bigc.co.th
+
+!jobs jp
+jobmagic.jp
+
+!unclear go daddy
+etilizepak.com
+
+!gr it shop
+bestprice.gr
+					
+!cyber security
+!rapid7.com
+!my.gs1.se
+
+!food
+securetransfer.generalmills.com
 
