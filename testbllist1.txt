@@ -1,170 +1,169 @@
-Adblock
-
-||0.club^
+ABP-style domains
+||aaa.com^
 
 ############################
-0.0.0.0 chatbot.dskbank.bg
-0.0.0.0 region1.analytics.google.com
-(\.|^)adsco\.re$
-0.0.0.0 gov.br
-0.0.0.0 ftp.lavazza.com
-0.0.0.0 c.pki.goog
-(\.|^)pki\.goog$
+chatbot.dskbank.bg
+region1.analytics.google.com
+||adsco.re^
+gov.br
+ftp.lavazza.com
+c.pki.goog
+||pki.goog^
 
 
-0.0.0.0 edge.microsoft.com
-0.0.0.0 ris.api.iris.microsoft.com
-0.0.0.0 arc.msn.com
-0.0.0.0 dmd.metaservices.microsoft.com
-0.0.0.0 inference.location.live.net
-0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 manage.devcenter.microsoft.com
-0.0.0.0 blob.core.windows.net
-0.0.0.0 tile-service.weather.microsoft.com
-0.0.0.0 www.bing.com
-0.0.0.0 spclient.wg.spotify.com
+edge.microsoft.com
+ris.api.iris.microsoft.com
+arc.msn.com
+dmd.metaservices.microsoft.com
+inference.location.live.net
+mobile.pipe.aria.microsoft.com
+manage.devcenter.microsoft.com
+blob.core.windows.net
+tile-service.weather.microsoft.com
+www.bing.com
+spclient.wg.spotify.com
 
-0.0.0.0 fdi.api.iris.microsoft.com
+fdi.api.iris.microsoft.com
 
 
 
 
 wpad.enterprisenet.org
 enterprisenet.org
-(\.|^)enterprisenet\.org$
+||enterprisenet.org^
 
-(\.|^)zdxcloud\.net$
+||zdxcloud.net^
 
 !pakistani it corp
-(\.|^)pooldata\.jazz\.com\.pk$
-(\.|^)datapool\.zong\.com\.pk$
+||pooldata.jazz.com.pk^
+||datapool.zong.com.pk^
 
 !dell customer stuff
-0.0.0.0 tm-sdk.platinumai.net
+tm-sdk.platinumai.net
 
 !mexico supermarkets?
-0.0.0.0 ftphebmx.heb.com.mx
+ftphebmx.heb.com.mx
 
 !kaza gov sites
-0.0.0.0 sono2.salyk.kz
-0.0.0.0 sono.salyk.kz
+sono2.salyk.kz
+sono.salyk.kz
 
 !belarus national bank
-0.0.0.0 www.nbrb.by
+www.nbrb.by
 
 !us National Center for Education Statistics
-0.0.0.0 usd.nces.by
+usd.nces.by
 
 !canned food
-0.0.0.0 partnerexchange.campbellsoup.com
+partnerexchange.campbellsoup.com
 
 !korean store
-0.0.0.0 smartstore.naver.com
+smartstore.naver.com
 
 !poland chinese pc store
-0.0.0.0 x-kom.pl
+||x-kom.pl^
 
 !supermarket
 # intranet.consum.es
-(\.|^)consum\.es$
+||consum.es^
 
 # lufthansa flight miles
 # www.miles-and-more.com
-(\.|^)miles-and-more\.com$
+||miles-and-more.com^
 
 !NL ecommerce
 # gfk-import.unftp.bol.com
-(\.|^)bol\.com$
+||bol.com^
 
 !uk store
 # britsuperstore.com
-(\.|^)britsuperstore\.com$
+||britsuperstore.com^
 
 !identity management from telaviv - usa
 # fidm.us1.gigya.com
-(\.|^)gigya\.com$
+||gigya.com^
 
 !dubai insurance
 # iloe.ae
 # diniloe.ae
-(\.|^)diniloe\.ae$
-(\.|^)iloe\.ae$
+||diniloe.ae^
+||iloe.ae^
 
 !chile
 # herculesr.sii.cl
-(\.|^)sii\.cl$
+||sii.cl^
 
 !UAE
 # extranet.etisalat.ae
-(\.|^)etisalat\.ae$
+||etisalat.ae^
 
 !pt finance portal
-0.0.0.0 servicos.portaldasfinancas.gov.pt
+servicos.portaldasfinancas.gov.pt
 
 !walmart VMware horizon
 # dwsuag-ex3-p03.wal-mart.com
-(\.|^)wal-mart\.com$
+||wal-mart.com^
 
 !Br ESR it company
 # totvscloud.com.br
-# (\.|^)totvscloud\.com.br$
+# ||totvscloud.com.br^
 
 !salesoft sales engagement
-0.0.0.0 melody.us1.salesloft.com
+melody.us1.salesloft.com
 # salesloft.com
-(\.|^)salesloft\.com$
-0.0.0.0 tracer-bullet.us1.salesloft.com
+||salesloft.com^
+tracer-bullet.us1.salesloft.com
 
 !amazon
-0.0.0.0 pkc-4nym6.us-east-1.aws.confluent.cloud
-0.0.0.0 psrc-4yovk.us-east-2.aws.confluent.cloud
-0.0.0.0 ntq.apps.s3-eu-west-1.amazonaws.com
-0.0.0.0 s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
+pkc-4nym6.us-east-1.aws.confluent.cloud
+psrc-4yovk.us-east-2.aws.confluent.cloud
+ntq.apps.s3-eu-west-1.amazonaws.com
+s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
 # traverse.infocume.com
-(\.|^)infocume\.com$
+||infocume.com^
 
 # app.chime.aws
-(\.|^)chime\.aws$
+||chime.aws^
 
 					
 !it billing documents soft
 # vpn-clienti-wg.edok.it
-(\.|^)edok\.it$
+||edok.it^
 
 !multinet pakistan info and comms tech
-0.0.0.0 metroclients.multi.net.pk
+metroclients.multi.net.pk
 					
 !gfk entertainment
 # ftp.gfk-e.com
-(\.|^)gfk-e\.com$
+||gfk-e.com^
 
 !es travel and electronicss bureau
 # contratacion.madrid-destino.com
-(\.|^)madrid-destino\.com$
+||madrid-destino.com^
 
 !hardware store Weber-Stephen Products LLC
 # sftp.weberstephen.com
-(\.|^)weberstephen\.com$
+||weberstephen.com^
 
 !selling experience gifts
 # smartftp.smartbox.com
-(\.|^)smartbox\.com$
+||smartbox.com^
 
 !retail corp
-0.0.0.0 bgcd-sftp.bigc.co.th
+bgcd-sftp.bigc.co.th
 
 !jobs jp
-(\.|^)jobmagic\.jp$
+||jobmagic.jp^
 
 !unclear go daddy
-(\.|^)etilizepak\.com$
+||etilizepak.com^
 
 !gr it shop
-(\.|^)bestprice\.gr$
+||bestprice.gr^
 
 !cyber security
 !rapid7.com
 !my.gs1.se
 
 !food
-0.0.0.0 securetransfer.generalmills.com
+securetransfer.generalmills.com
