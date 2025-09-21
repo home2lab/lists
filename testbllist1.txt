@@ -65,42 +65,54 @@ enterprisenet.org
 0.0.0.0 x-kom.pl
 
 !supermarket
-0.0.0.0 intranet.consum.es
+# intranet.consum.es
+(\.|^)consum\.es$
 
-!lufthansa flight miles
-0.0.0.0 www.miles-and-more.com
+# lufthansa flight miles
+# www.miles-and-more.com
+(\.|^)miles-and-more\.com$
 
 !NL ecommerce
-0.0.0.0 gfk-import.unftp.bol.com
+# gfk-import.unftp.bol.com
+(\.|^)bol\.com$
 
 !uk store
-0.0.0.0 britsuperstore.com
+# britsuperstore.com
+(\.|^)britsuperstore\.com$
 
 !identity management from telaviv - usa
-0.0.0.0 fidm.us1.gigya.com
+# fidm.us1.gigya.com
+(\.|^)gigya\.com$
 
 !dubai insurance
-0.0.0.0 iloe.ae
-0.0.0.0 diniloe.ae
+# iloe.ae
+# diniloe.ae
+(\.|^)diniloe\.ae$
+(\.|^)iloe\.ae$
 
 !chile
-0.0.0.0 herculesr.sii.cl
+# herculesr.sii.cl
+(\.|^)sii\.cl$
 
 !UAE
-0.0.0.0 extranet.etisalat.ae
+# extranet.etisalat.ae
+(\.|^)etisalat\.ae$
 
 !pt finance portal
 0.0.0.0 servicos.portaldasfinancas.gov.pt
 
 !walmart VMware horizon
-0.0.0.0 dwsuag-ex3-p03.wal-mart.com
+# dwsuag-ex3-p03.wal-mart.com
+(\.|^)wal-mart\.com$
 
 !Br ESR it company
-!totvscloud.com.br
+# totvscloud.com.br
+# (\.|^)totvscloud\.com.br$
 
 !salesoft sales engagement
 0.0.0.0 melody.us1.salesloft.com
-0.0.0.0 salesloft.com
+# salesloft.com
+(\.|^)salesloft\.com$
 0.0.0.0 tracer-bullet.us1.salesloft.com
 
 !amazon
@@ -108,45 +120,51 @@ enterprisenet.org
 0.0.0.0 psrc-4yovk.us-east-2.aws.confluent.cloud
 0.0.0.0 ntq.apps.s3-eu-west-1.amazonaws.com
 0.0.0.0 s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
-0.0.0.0 traverse.infocume.com
+# traverse.infocume.com
+(\.|^)infocume\.com$
 
-0.0.0.0 app.chime.aws
+# app.chime.aws
+(\.|^)chime\.aws$
 
 					
 !it billing documents soft
-0.0.0.0 vpn-clienti-wg.edok.it
+# vpn-clienti-wg.edok.it
+(\.|^)edok\.it$
 
 !multinet pakistan info and comms tech
 0.0.0.0 metroclients.multi.net.pk
 					
 !gfk entertainment
-0.0.0.0 ftp.gfk-e.com
+# ftp.gfk-e.com
+(\.|^)gfk-e\.com$
 
 !es travel and electronicss bureau
-0.0.0.0 contratacion.madrid-destino.com
+# contratacion.madrid-destino.com
+(\.|^)madrid-destino\.com$
 
 !hardware store Weber-Stephen Products LLC
-0.0.0.0 sftp.weberstephen.com
+# sftp.weberstephen.com
+(\.|^)weberstephen\.com$
 
 !selling experience gifts
-0.0.0.0 smartftp.smartbox.com
+# smartftp.smartbox.com
+(\.|^)smartbox\.com$
 
 !retail corp
 0.0.0.0 bgcd-sftp.bigc.co.th
 
 !jobs jp
-jobmagic.jp
+(\.|^)jobmagic\.jp$
 
 !unclear go daddy
-etilizepak.com
+(\.|^)etilizepak\.com$
 
 !gr it shop
-bestprice.gr
-					
+(\.|^)bestprice\.gr$
+
 !cyber security
 !rapid7.com
 !my.gs1.se
 
 !food
 0.0.0.0 securetransfer.generalmills.com
-
