@@ -2,29 +2,29 @@ Adblock
 
 ||0.club^
 
-
-chatbot.dskbank.bg
-region1.analytics.google.com
+############################
+0.0.0.0 chatbot.dskbank.bg
+0.0.0.0 region1.analytics.google.com
 (\.|^)adsco\.re$
-gov.br
-ftp.lavazza.com
-c.pki.goog
+0.0.0.0 gov.br
+0.0.0.0 ftp.lavazza.com
+0.0.0.0 c.pki.goog
 (\.|^)pki\.goog$
 
 
-edge.microsoft.com
-ris.api.iris.microsoft.com
-arc.msn.com
-dmd.metaservices.microsoft.com
-inference.location.live.net
-mobile.pipe.aria.microsoft.com
-manage.devcenter.microsoft.com
-blob.core.windows.net
-tile-service.weather.microsoft.com
-www.bing.com
-spclient.wg.spotify.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 arc.msn.com
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 inference.location.live.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 manage.devcenter.microsoft.com
+0.0.0.0 blob.core.windows.net
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 www.bing.com
+0.0.0.0 spclient.wg.spotify.com
 
-fdi.api.iris.microsoft.com
+0.0.0.0 fdi.api.iris.microsoft.com
 
 
 
@@ -40,99 +40,99 @@ enterprisenet.org
 (\.|^)datapool\.zong\.com\.pk$
 
 !dell customer stuff
-tm-sdk.platinumai.net
+0.0.0.0 tm-sdk.platinumai.net
 
 !mexico supermarkets?
-ftphebmx.heb.com.mx
+0.0.0.0 ftphebmx.heb.com.mx
 
 !kaza gov sites
-sono2.salyk.kz
-sono.salyk.kz
+0.0.0.0 sono2.salyk.kz
+0.0.0.0 sono.salyk.kz
 
 !belarus national bank
-www.nbrb.by
+0.0.0.0 www.nbrb.by
 
 !us National Center for Education Statistics
-usd.nces.by
+0.0.0.0 usd.nces.by
 
 !canned food
-partnerexchange.campbellsoup.com
+0.0.0.0 partnerexchange.campbellsoup.com
 
 !korean store
-smartstore.naver.com
+0.0.0.0 smartstore.naver.com
 
 !poland chinese pc store
-x-kom.pl
+0.0.0.0 x-kom.pl
 
 !supermarket
-intranet.consum.es
+0.0.0.0 intranet.consum.es
 
 !lufthansa flight miles
-www.miles-and-more.com
+0.0.0.0 www.miles-and-more.com
 
 !NL ecommerce
-gfk-import.unftp.bol.com
+0.0.0.0 gfk-import.unftp.bol.com
 
 !uk store
-britsuperstore.com
+0.0.0.0 britsuperstore.com
 
 !identity management from telaviv - usa
-fidm.us1.gigya.com
+0.0.0.0 fidm.us1.gigya.com
 
 !dubai insurance
-iloe.ae
-diniloe.ae
+0.0.0.0 iloe.ae
+0.0.0.0 diniloe.ae
 
 !chile
-herculesr.sii.cl
+0.0.0.0 herculesr.sii.cl
 
 !UAE
-extranet.etisalat.ae
+0.0.0.0 extranet.etisalat.ae
 
 !pt finance portal
-servicos.portaldasfinancas.gov.pt
+0.0.0.0 servicos.portaldasfinancas.gov.pt
 
 !walmart VMware horizon
-dwsuag-ex3-p03.wal-mart.com
+0.0.0.0 dwsuag-ex3-p03.wal-mart.com
 
 !Br ESR it company
 !totvscloud.com.br
 
 !salesoft sales engagement
-melody.us1.salesloft.com
-salesloft.com
-tracer-bullet.us1.salesloft.com
+0.0.0.0 melody.us1.salesloft.com
+0.0.0.0 salesloft.com
+0.0.0.0 tracer-bullet.us1.salesloft.com
 
 !amazon
-pkc-4nym6.us-east-1.aws.confluent.cloud
-psrc-4yovk.us-east-2.aws.confluent.cloud
-ntq.apps.s3-eu-west-1.amazonaws.com
-s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
-traverse.infocume.com
+0.0.0.0 pkc-4nym6.us-east-1.aws.confluent.cloud
+0.0.0.0 psrc-4yovk.us-east-2.aws.confluent.cloud
+0.0.0.0 ntq.apps.s3-eu-west-1.amazonaws.com
+0.0.0.0 s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
+0.0.0.0 traverse.infocume.com
 
-app.chime.aws
+0.0.0.0 app.chime.aws
 
 					
 !it billing documents soft
-vpn-clienti-wg.edok.it
+0.0.0.0 vpn-clienti-wg.edok.it
 
 !multinet pakistan info and comms tech
-metroclients.multi.net.pk
+0.0.0.0 metroclients.multi.net.pk
 					
 !gfk entertainment
-ftp.gfk-e.com
+0.0.0.0 ftp.gfk-e.com
 
 !es travel and electronicss bureau
-contratacion.madrid-destino.com
+0.0.0.0 contratacion.madrid-destino.com
 
 !hardware store Weber-Stephen Products LLC
-sftp.weberstephen.com
+0.0.0.0 sftp.weberstephen.com
 
 !selling experience gifts
-smartftp.smartbox.com
+0.0.0.0 smartftp.smartbox.com
 
 !retail corp
-bgcd-sftp.bigc.co.th
+0.0.0.0 bgcd-sftp.bigc.co.th
 
 !jobs jp
 jobmagic.jp
@@ -148,5 +148,5 @@ bestprice.gr
 !my.gs1.se
 
 !food
-securetransfer.generalmills.com
+0.0.0.0 securetransfer.generalmills.com
 
