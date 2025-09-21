@@ -27,6 +27,7 @@ tile-service.weather.microsoft.com
 www.bing.com
 spclient.wg.spotify.com
 
+fdi.api.iris.microsoft.com
 
 
 tm-sdk.platinumai.net
