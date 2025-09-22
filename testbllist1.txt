@@ -12,7 +12,7 @@ c.pki.goog
 
 
 edge.microsoft.com
-ris.api.iris.microsoft.com
+||ris.api.iris.microsoft.com^
 arc.msn.com
 dmd.metaservices.microsoft.com
 inference.location.live.net
@@ -23,8 +23,7 @@ tile-service.weather.microsoft.com
 www.bing.com
 spclient.wg.spotify.com
 
-fdi.api.iris.microsoft.com
-
+||fdi.api.iris.microsoft.com^
 
 
 
@@ -104,10 +103,6 @@ servicos.portaldasfinancas.gov.pt
 # dwsuag-ex3-p03.wal-mart.com
 ||wal-mart.com^
 
-!Br ESR it company
-# totvscloud.com.br
-# ||totvscloud.com.br^
-
 !salesoft sales engagement
 melody.us1.salesloft.com
 # salesloft.com
@@ -161,9 +156,162 @@ bgcd-sftp.bigc.co.th
 !gr it shop
 ||bestprice.gr^
 
-!cyber security
-!rapid7.com
-!my.gs1.se
-
 !food
 securetransfer.generalmills.com
+
+
+
+## oneget pkg mngr for powershell not updated since 2019
+cdn.oneget.org
+||oneget.org^
+
+# oneclient.sfx.ms and g.live.com apply updates and bug fixes, and enable or disable features installed automatically
+oneclient.sfx.ms
+g.live.com
+onedriveclubproddm20031.blob.core.windows.net
+
+# onedrive and cloud
+storage.live.com
+
+# ms geospacial endpoint service
+ecn.dev.virtualearth.net
+dev.virtualearth.net
+
+# Chromium browsers, and from applications built around the Chromium Embedded Framework, such as VSCode, Spotify desktop, or any Electron app  the only downside has been that something in Google Docs stopped working or reddit
+content-autofill.googleapis.com
+
+# collection of free and open source multiplatform voice video conferencing and instant messaging
+meet.jit.si
+
+# java lib stripe js
+js.stripe.com
+
+# unclear  stripe
+m.stripe.network
+
+# ms store
+store-images.s-microsoft.com
+
+#chrome updating and extensions with http could prevent auto updates upon disable
+edgedl.me.gvt1.com
+
+#chrome webstore
+chromewebstore.googleapis.com
+
+# pushp svc ms deprecated
+northcentralus1-0.pushnp.svc.ms
+pushnp.svc.ms
+			
+# google messaging and calling platform such as hangouts service discontinued by Google
+mtalk.google.com
+
+#mobile analytics aquired by service now
+api-appsee.service-now.com
+				
+# a violation of user privacy as they check every domain you ever visited so if you use secure dns like nextdns just turn that off use it inside nextdns will be more privacy friendly to you
+google-ohttp-relay-safebrowsing.fastly-edge.com
+
+# unclear
+safebrowsingohttpgateway.googleapis.com
+
+#adobe geoloc
+geo2.adobe.com
+
+#adobe reader certificates related
+armmf.adobe.com
+
+# Acrobat and Reader updates among other things
+acroipm2.adobe.com
+
+# 8 IP addresses on Amazon AWS in Ashburn Virginia United States
+p13n.adobe.io
+
+# a domain associated with Google often used for various services related to applications and updates may also be linked to malware alerts in some antivirus software indicating potential security issues when accessing it
+clients2.google.com
+
+# ms edge content
+nleditor.osi.office.net
+
+###### The entirety of your Word and Powerpoint documents no matter if they are locally saved or on the o365 cloud is being sent to Microsoft
+augloop.office.com
+
+#  Skype application
+emea.cc.skype.com
+||skype.com^
+us-api.asm.skype.com
+acroipm2.adobe.com
+
+# is a service used by Microsoft Edge to manage configurations and feature rollouts including controlled feature testing for the browser It is associated with the Skype and helps ensure product health and compliance  tests
+config.edge.skype.com
+
+# CGA works with food drink suppliers
+vpn.cga.co.uk
+||cga.co.uk^
+
+# tax law consults
+dpwx.auditreu.at
+
+# Japanese multinational brewing and distilling company
+vpn-europe-sbfe.suntory.com
+||suntory.com^
+
+# ro supermarkets
+ftps.profi.ro
+||profi.ro^
+
+# VMs and token endpoints metadata
+metadata.google.internal
+
+# checkpoint mobile vpn
+gwevents.checkpoint.com
+
+# dell software
+clientperipherals.dell.com
+
+# focuses on distributing and retailing medications and personal care
+vpn.dimed.com.br
+||dimed.com.br^
+
+# access assist
+assist.zoho.com
+
+# defender and onboarding
+winatp-gw-weu.microsoft.com
+
+# endpoint is used to revoke licenses for malicious apps in the Ms Store
+storecatalogrevocation.storequality.microsoft.com
+
+# endpoints are used to communicate with Ms Store
+displaycatalog.mp.microsoft.com
+
+### Ms Store analytics
+manage.devcenter.microsoft.com
+
+# outlook tests
+www.portal.manage-dogfood.microsoft.com
+manage-dogfood.microsoft.com
+
+# insider preview
+www.portal.manage-beta.microsoft.com
+manage-beta.microsoft.com
+
+# dell powerstore data manager
+agent.api.astra.dell.com
+
+# data in JSON format to web Ms Edge icons
+assets.msn.com
+
+# edge settings
+||msn.com^
+
+# mobile call or over wifi
+#epdg.epc.mnc003.mcc284.pub.3gppnetwork.org
+
+# net connectivity test could be blocked
+connectivitycheck.gstatic.com
+
+# ms edge update checker
+msedge.api.cdp.microsoft.com
+
+# domain that serves as a content delivery network for static resources like images JavaScript and CSS files helps improve the loading speed and performance of various Google services and websites by caching and delivering these resources
+||gstatic.com^
