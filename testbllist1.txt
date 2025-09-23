@@ -315,3 +315,17 @@ msedge.api.cdp.microsoft.com
 
 # domain that serves as a content delivery network for static resources like images JavaScript and CSS files helps improve the loading speed and performance of various Google services and websites by caching and delivering these resources
 ||gstatic.com^
+
+# Firefox telemetry  detectportal may be important
+ostats.mozilla.com
+sostats.mozilla.com
+metrics.mozilla.com
+hardware.metrics.mozilla.com
+incoming.telemetry.mozilla.org
+crash-stats.mozilla.com
+experiments.mozilla.org
+getpocket.cdn.mozilla.net
+qsurvey.mozilla.com
+telemetry.mozilla.org
+telemetry-experiment.cdn.mozilla.net
+detectportal.firefox.com
