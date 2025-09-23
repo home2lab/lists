@@ -276,7 +276,7 @@ vpn.dimed.com.br
 assist.zoho.com
 
 # defender and onboarding
-#winatp-gw-weu.microsoft.com
+winatp-gw-weu.microsoft.com
 
 # endpoint is used to revoke licenses for malicious apps in the Ms Store
 storecatalogrevocation.storequality.microsoft.com
