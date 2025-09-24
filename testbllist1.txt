@@ -12,7 +12,7 @@ c.pki.goog
 
 
 edge.microsoft.com
-||ris.api.iris.microsoft.com^
+ris.api.iris.microsoft.com
 arc.msn.com
 dmd.metaservices.microsoft.com
 inference.location.live.net
@@ -23,12 +23,11 @@ tile-service.weather.microsoft.com
 www.bing.com
 spclient.wg.spotify.com
 
-||fdi.api.iris.microsoft.com^
+fdi.api.iris.microsoft.com
 
 
 
 wpad.enterprisenet.org
-enterprisenet.org
 ||enterprisenet.org^
 
 ||zdxcloud.net^
@@ -37,32 +36,32 @@ enterprisenet.org
 ||pooldata.jazz.com.pk^
 ||datapool.zong.com.pk^
 
-!dell customer stuff
+# dell customer stuff
 tm-sdk.platinumai.net
 
-!mexico supermarkets?
+# mexico supermarkets
 ftphebmx.heb.com.mx
 
-!kaza gov sites
+# kaza gov sites
 sono2.salyk.kz
 sono.salyk.kz
 
-!belarus national bank
+# belarus national bank
 www.nbrb.by
 
-!us National Center for Education Statistics
+# us National Center for Education Statistics
 usd.nces.by
 
-!canned food
+# canned food
 partnerexchange.campbellsoup.com
 
-!korean store
+# korean store
 smartstore.naver.com
 
-!poland chinese pc store
+# poland chinese pc store
 ||x-kom.pl^
 
-!supermarket
+# supermarket
 # intranet.consum.es
 ||consum.es^
 
@@ -70,46 +69,44 @@ smartstore.naver.com
 # www.miles-and-more.com
 ||miles-and-more.com^
 
-!NL ecommerce
+# NL ecommerce
 # gfk-import.unftp.bol.com
 ||bol.com^
 
-!uk store
+# uk store
 # britsuperstore.com
 ||britsuperstore.com^
 
-!identity management from telaviv - usa
+# identity management from telaviv usa
 # fidm.us1.gigya.com
 ||gigya.com^
 
-!dubai insurance
-# iloe.ae
-# diniloe.ae
+# dubai insurance
 ||diniloe.ae^
 ||iloe.ae^
 
-!chile
+# chile
 # herculesr.sii.cl
 ||sii.cl^
 
-!UAE
+# UAE
 # extranet.etisalat.ae
 ||etisalat.ae^
 
-!pt finance portal
+# pt finance portal
 servicos.portaldasfinancas.gov.pt
 
-!walmart VMware horizon
+# walmart VMware horizon
 # dwsuag-ex3-p03.wal-mart.com
 ||wal-mart.com^
 
-!salesoft sales engagement
+# salesoft sales engagement
 melody.us1.salesloft.com
 # salesloft.com
 ||salesloft.com^
 tracer-bullet.us1.salesloft.com
 
-!amazon
+#### amazon
 pkc-4nym6.us-east-1.aws.confluent.cloud
 psrc-4yovk.us-east-2.aws.confluent.cloud
 ntq.apps.s3-eu-west-1.amazonaws.com
@@ -121,42 +118,42 @@ s-2f5d015195f94eff9.server.transfer.us-east-1.amazonaws.com
 ||chime.aws^
 
 					
-!it billing documents soft
-# vpn-clienti-wg.edok.it
+# it billing documents soft
+#vpn-clienti-wg.edok.it
 ||edok.it^
 
-!multinet pakistan info and comms tech
+# multinet pakistan info and comms tech
 metroclients.multi.net.pk
 					
-!gfk entertainment
-# ftp.gfk-e.com
+# gfk entertainment
+#ftp.gfk-e.com
 ||gfk-e.com^
 
-!es travel and electronicss bureau
-# contratacion.madrid-destino.com
+# es travel and electronicss bureau
+#contratacion.madrid-destino.com
 ||madrid-destino.com^
 
-!hardware store Weber-Stephen Products LLC
-# sftp.weberstephen.com
+# hardware store Weber-Stephen Products LLC
+#sftp.weberstephen.com
 ||weberstephen.com^
 
-!selling experience gifts
-# smartftp.smartbox.com
+# selling experience gifts
+#smartftp.smartbox.com
 ||smartbox.com^
 
-!retail corp
+# retail corp
 bgcd-sftp.bigc.co.th
 
-!jobs jp
+# jobs jp
 ||jobmagic.jp^
 
-!unclear go daddy
+# unclear go daddy
 ||etilizepak.com^
 
-!gr it shop
+# gr it shop
 ||bestprice.gr^
 
-!food
+# food
 securetransfer.generalmills.com
 
 
@@ -192,10 +189,10 @@ m.stripe.network
 # ms store
 store-images.s-microsoft.com
 
-#chrome updating and extensions with http could prevent auto updates upon disable
+# chrome updating and extensions with http could prevent auto updates upon disable
 edgedl.me.gvt1.com
 
-#chrome webstore
+# chrome webstore
 chromewebstore.googleapis.com
 
 # pushp svc ms deprecated
@@ -205,7 +202,7 @@ pushnp.svc.ms
 # google messaging and calling platform such as hangouts service discontinued by Google
 mtalk.google.com
 
-#mobile analytics aquired by service now
+# mobile analytics aquired by service now
 api-appsee.service-now.com
 				
 # a violation of user privacy as they check every domain you ever visited so if you use secure dns like nextdns just turn that off use it inside nextdns will be more privacy friendly to you
@@ -214,10 +211,10 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 # unclear
 safebrowsingohttpgateway.googleapis.com
 
-#adobe geoloc
+# adobe geoloc
 geo2.adobe.com
 
-#adobe reader certificates related
+# adobe reader certificates related
 armmf.adobe.com
 
 # Acrobat and Reader updates among other things
@@ -329,3 +326,18 @@ qsurvey.mozilla.com
 telemetry.mozilla.org
 telemetry-experiment.cdn.mozilla.net
 detectportal.firefox.com
+
+# alphabet
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt6-mtalk.google.com
+
+# aws telemetry
+cell-0.eu-central-1.prod.telemetry.console.api.aws
+
+# github statistics
+#cdn.staticaly
+
+# ghost io hosting blogging related
+pristineword.ghost.io
+||ghost.io^
